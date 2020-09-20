@@ -16,6 +16,5 @@ Example on how to use [mmcdole-gofeed](https://github.com/mmcdole/gofeed) go rss
 
 ## License
 
-This project is licensed under the [MIT License]
- https://raw.githubusercontent.com/francisco1844/fr-go-samples/master/LICENSE
+This project is licensed under the [MIT License] (https://raw.githubusercontent.com/francisco1844/fr-go-samples/master/LICENSE)
 
