@@ -4,13 +4,13 @@ Francisco Reyes Go sample code
 ## Table of Contents
 
 - [About](#about)
-- [Sample code](#samples)
+- [Examples](#examples)
 - [License](#license)
 
 ## About
 Sample Go code snippets created by Francisco Reyes
 
-## Samples
+## Examples
 #### mmcdole-gofeed
 Example on how to use [mmcdole-gofeed](https://github.com/mmcdole/gofeed) go rss/atom library 
 
